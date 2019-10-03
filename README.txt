@@ -1,7 +1,7 @@
 README
 
 --Files for analysis and plotting of results for the article:
-	Forecasting...TODO
+	Forecasting unprecedented critical events in ecological fluctuations
 	Samuel R. Bray, Bo Wang
 	2019
 
