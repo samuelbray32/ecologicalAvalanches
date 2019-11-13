@@ -40,12 +40,12 @@ Within the Demo folder, there are two folders containing example data and necess
 
 Within the Demo Folder, open the jupyter notebook 'demo.ipynb. This file demonstrates all functions and analysis developed and used in the corresponding paper using the baltic sea plankton data set as a default example. Other data sets can be run by changing the appropriate variables indicated within. Running through this file will:
 
-** Load and plot appropriate dataset
-** Extract avalanche size and durations
-** Perform AIC testing to confirm power law probability distribution of size and duration
-** Extract average normalized avalanche shape
-** Demonstrate ASE extrapolation of historical data
-** perform s-map based forecasting with and without ASE-augmented training data
+* Load and plot appropriate dataset
+* Extract avalanche size and durations
+* Perform AIC testing to confirm power law probability distribution of size and duration
+* Extract average normalized avalanche shape
+* Demonstrate ASE extrapolation of historical data
+* perform s-map based forecasting with and without ASE-augmented training data
 
 To examine the implementation of each function, see the appropriate .py files in '/DEMO/functions/'
 
